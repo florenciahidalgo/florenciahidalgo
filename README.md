@@ -1,16 +1,28 @@
-## Hi there 👋
+# Hi, I'm Florencia 👋
 
-<!--
-**florenciahidalgo/florenciahidalgo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Data Analyst | BI Developer | Data Engineering
 
-Here are some ideas to get you started:
+I'm a Data Analyst with experience in SQL, Power BI, Python and data visualization.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I enjoy working with data to understand business problems, build useful dashboards and create solutions that make information easier to use.
+
+Currently, I'm developing my skills in Data Engineering and building projects around data analysis, ETL and business intelligence.
+
+### 🛠️ Skills
+
+- SQL
+- Python
+- Power BI
+- DAX
+- Power Query
+- PostgreSQL
+- Excel
+- Git & GitHub
+
+### 📂 Portfolio
+
+[View my portfolio](TU-LINK-AQUI)
+
+### 📄 Resume
+
+[Download CV](TU-LINK-AQUI)

@@ -15,7 +15,7 @@
 
 ---
 
-### 👩‍💻 A little about me
+### 👩‍💻 About me
 
 I'm a **Data Analyst focused on Business Intelligence and Data Visualization**, with a background in engineering and an interest in understanding the reasoning behind data, not just the tools used to analyze it.
 
